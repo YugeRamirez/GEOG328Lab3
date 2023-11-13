@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.2984, 47.6629]
+        },
+        "properties": {
+            "name": "Apple University Village", 
+            "address": "2651 NE 49th St, Seattle, WA, 98105", 
+            "phone": "(206) 892-0433", 
+            "rating": 3.9, 
+            "reviews": 226 
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.2015, 47.6155]
+        },
+        "properties": {
+            "name": "Apple Bellevue Square", 
+            "address": "213 Bellevue Square, Bellevue, WA, 98004", 
+            "phone": "(425) 519-0080", 
+            "rating": 3.5, 
+            "reviews": 176 
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.2608, 47.4586]
+        },
+        "properties": {
+          "name": "Apple Southcenter",
+          "address": "801 Southcenter Mall, Tukwila, WA, 98188", 
+          "phone": "(206) 288-4400", 
+          "rating": 2.7, 
+          "reviews": 6 
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4352, 47.2529]
+        },
+        "properties": {
+            "name": "Apple Tacoma Mall", 
+            "address": "4502 S Steele Street, Tacoma, WA, 98409", 
+            "phone": "(253) 620-1454", 
+            "rating": 3.5, 
+            "reviews": 182 
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.2794, 47.8294]
+        },
+        "properties": {
+          "name": "Apple Alderwood",
+          "address": "3000 184th Street S.W., Lynnwood, WA, 98037",
+          "phone": "(425) 921-1560",
+          "rating": 4.0,
+          "reviews": 654
+        }
+      }      
+    ]
+  }
+  
